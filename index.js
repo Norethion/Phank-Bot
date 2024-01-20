@@ -7,7 +7,7 @@ bot.commands = new Discord.Collection();
 bot.music = require("discord.js-musicbot-addon");
 bot.music.start(bot, {
   botPrefix : "-",
-  youtubeKey: "AIzaSyDxa8nHi6_ucyJlAAwzCTE25YIT1IAi4L8",
+  youtubeKey: "----",
   help: {
     help: "Komutlar için müzik.",
     name: "muzik"
